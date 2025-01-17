@@ -1,6 +1,6 @@
 ## About Me
 
--  **Languages**: C#, C++, Python and Lua
+-  **Languages**: C#, C++ (I'm still learning), Python and Lua
 
 ## ⚙ My Projects
 
