@@ -4,8 +4,8 @@
 
 ## ⚙ My Projects
 
-- **WiseFolderHider Recovery** ( [Github](https://github.com/SCP/WiseFolderHider_Recovery) | `C#` | 🟢 Actively maintained )
+- **WiseFolderHider Recovery** ( [Github](https://github.com/SCP294-1/WiseFolderHider_Recovery) | `C#` | 🟢 Actively maintained )
   - The program bypasses WiseFolderHider's password checks.
 
-- **HSVentInfinite** ( [Github](https://github.com/LilianPontes35/WiseFolderHider_Recovery) | `C#` | 🟢 Actively maintained )
+- **HSVentInfinite** ( [Github](https://github.com/SCP294-1/HSVentInfinite) | `Java` | 🟢 Actively maintained )
   - 
